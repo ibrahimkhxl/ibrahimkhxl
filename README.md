@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data Structure and algorithms
 - 💞️ I’m looking to collaborate on Innovative Data Science Projects
 - 😄 Pronouns: They........Don't know me, son!
-- ⚡ Fun fact: You have a limited time here on Earth so live each day to the fullest.
+- ⚡ Fun fact: This is an age of information, and truth is a commodity.
 
 <!---
 ibrahimkhxl/ibrahimkhxl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
