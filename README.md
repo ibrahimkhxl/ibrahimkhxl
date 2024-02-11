@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ibrhaim Khaleel
-- 👀 I’m interested in Data Science and Investment Banking
+- 👀 I’m interested in Data Science and Finance
 - 🌱 I’m currently learning Data Structure and algorithms
 - 💞️ I’m looking to collaborate on Innovative Data Science Projects
 - 😄 Pronouns: They........Don't know me, son!
